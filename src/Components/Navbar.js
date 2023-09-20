@@ -45,6 +45,7 @@ const Navbar = () => {
         
        
       </div>
+      <h1>KFC</h1>
       <div className="navbar-links-container">
         
         <a href="">Home</a>

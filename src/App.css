@@ -465,5 +465,11 @@ display: none;
 .navbar-links-container a{
   font-size: larger;
 }
+h1{
+
+  font-size: 54px;
+  color:white;
+  padding-right:54px;
+}
 
 
