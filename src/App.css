@@ -264,7 +264,7 @@ display: none;
 .testimonials-stars-container svg {
   margin: 0rem 0.25rem;
   font-size: 1.5rem;
-  color: #fe9e0d;
+  color: red;
 }
 .testimonial-section-bottom h2 {
   margin-top: 1.5rem;

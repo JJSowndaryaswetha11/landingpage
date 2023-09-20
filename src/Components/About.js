@@ -20,10 +20,12 @@ const About = () => {
         It’s all about foooood
         </h1>
         <p className="primary-text">
-        KFC Corporation, doing business as Kentucky Fried Chicken (KFC), is an American fast food restaurant chain headquartered in Louisville, Kentucky, that specializes in fried chicken. It is the world's second-largest restaurant chain (as measured by sales) after McDonald's, with 22,621 locations globally in 150 countries as of December 2019.[4] The chain is a subsidiary of Yum! Brands, a restaurant company that also owns the Pizza Hut and Taco Bell chains.[5]
+        Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
+          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
         </p>
         <p className="primary-text">
-        By branding himself as "Colonel Sanders", Harland became a prominent figure of American cultural history and his image remains widely used in KFC advertising to this day. However, the company's rapid expansion overwhelmed the aging Sanders and he sold it to a group of investors led by John Y. Brown Jr. and Jack C. Massey in 1964.
+        Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
+          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
         </p>
         <div className="about-buttons-container">
           <button className="secondary-button">Learn More</button>
